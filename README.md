@@ -1,6 +1,6 @@
 ## Exp4Fuse: A Rank Fusion Framework for Enhanced Sparse Retrieval using Large Language Model-based Query Expansion
 
-**📢 News: this work has been accepted at the ACL 2025 findings!** [paper](https://arxiv.org/abs/2506.04760).
+**📢 News: this work has been accepted at the ACL 2025 findings!** [paper](https://arxiv.org/abs/2506.04760)
 
 We propose Exp4Fuse, a query expansion method using a LLM to enhance sparse retrievers. Exp4Fuse fuses two sets of retrieved document ranks from the same sparse retriever: one based on the original query and the other on an LLM-based zero-shot query expansion, to generate final retrieved document ranks. This method benefits from indirect LLM-based QE and combines results from different query formats, yielding high-quality retrieval outcomes.
 
